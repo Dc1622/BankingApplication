@@ -1,6 +1,6 @@
 for testing :-
 
-username = mymail
+username = mymail,
 password = mypass
 
 database is commented for safety,
